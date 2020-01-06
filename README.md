@@ -1,4 +1,4 @@
-# sonar-coverage-example-java
+# sonar-coverage-example-java-Workshop P3 GmBH
 
 You can set up code coverage with [SonarQube](https://www.sonarqube.org/).
 
